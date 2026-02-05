@@ -18,6 +18,6 @@ Post-quantum cryptography infrastructure. We build hardware, signature schemes, 
 
 ## Resources
 
-[Keelung Docs](https://btq.gitbook.io/keelung) · [Website](https://btq.com) · [Investor Relations](https://btq.com/investors)
+[Keelung Docs](https://btq.gitbook.io/keelung) · [Website](https://btq.com) · [Investor Relations](https://www.btq.com/investor-relations)
 
 NASDAQ: BTQ · CBOE CA: BTQ · FSE: NG3
